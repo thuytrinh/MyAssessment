@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyAssessment</string>
+    <string name="go">go</string>
+    <string name="blue">blue</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="none">None</string>
+    <string name="one">ONE</string>
+    <string name="two">TWO</string>
+    <string name="three">THREE</string>
+    <string name="go_last">go last</string>
+    <string name="button_pressed_is">button pressed is %d</string>
+    <string name="button_pressed_is_s">button pressed is %s</string>
+</resources>
